@@ -1,0 +1,10 @@
+.avatar {
+    max-height: 45px;
+    max-width: 45px;
+    border-radius: 22px;
+}
+
+.add-icon {
+    cursor: pointer;
+    color: green;
+}

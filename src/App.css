@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.App {
+    width: 100%;
+    height: 100vh;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mobile-container {
+    width: 360px;
+    height: 640px;
+    background-color: #fff;
+    border-radius: 20px;
+    border: 7px solid #000;
+    overflow-x: scroll;
+    overflow-x: hidden;
+}
+
+.header {
+    background-color: orangered;
+    height: 60px;
+}
+
+.header h1 {
+    color: #fff;
+    text-align: center;
+}
